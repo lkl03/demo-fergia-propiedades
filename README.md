@@ -1,2 +1,7 @@
-# demo-fergia-propiedades
-Demo web para Fergia Propiedades — diseñada por eterlab.
+# Fergia Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
